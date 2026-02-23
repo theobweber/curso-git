@@ -3,3 +3,4 @@ cd - move entre dir
 pwd - mostra dir
 cat - exibe cont
 rm - remove arqv ou dir
+rm -rf - remove de forma forçada tudo

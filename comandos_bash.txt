@@ -1,0 +1,3 @@
+ls - lista
+cd - move entre dir
+pwd - mostra dir

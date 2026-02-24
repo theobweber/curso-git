@@ -4,3 +4,4 @@ git add - adiciona arv to commit
 git commit -m "msg" - faz comit do que estava pra ser commit
 git log - mostra logs commit
 owowo
+dfjfj

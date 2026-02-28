@@ -1,1 +1,2 @@
-# Curso Git
+# Curso Git 
+Um curso para iniciantes
